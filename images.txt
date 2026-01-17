@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 wushuo894/ani-rss:latest
+dreamacro/clash:latest
+emby/embyserver:4.8.3.0
