@@ -7,3 +7,4 @@ xhofe/alist:latest
 wushuo894/ani-rss:latest
 dreamacro/clash:latest
 emby/embyserver:4.8.3.0
+woodchen/clash-and-dashboard:latest
